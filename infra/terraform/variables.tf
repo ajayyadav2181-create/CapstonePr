@@ -3,8 +3,8 @@ variable "aws_region" {
   default = "us-east-1"
 }
 
-variable "upload _bucket_name" { 
-  description = "Name of S3 bucket to upload files"
+variable "upload_bucket_name" { 
+  description = "S3 bucket name for uploads"
   type = string
 }
 
