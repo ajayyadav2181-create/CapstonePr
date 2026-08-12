@@ -6,7 +6,7 @@ terraform {
     bucket       = "devops-accelerator-platform-tf-state-ajay"
     key          = "global/devops-accelerator/terraform.tfstate"
     region       = "us-east-1"
-    use_lockfile = true    
+    dynamodb_dynamodb_table = "devops-accelerator-tf-locker"    
     encrypt      = true     
   }
 }
