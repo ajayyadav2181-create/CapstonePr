@@ -1,0 +1,10 @@
+{
+    "Item": {
+        "LockID": {
+            "S": "devops-accelerator-platform-tf-state-ajay/global/devops-accelerator/terraform.tfstate"
+        },
+        "Info": {
+            "S": "{\"ID\":\"2b314169-2c95-53fa-2554-100bd059cefc\",\"Operation\":\"OperationTypePlan\",\"Info\":\"\",\"Who\":\"runner@runnervmvrwv9\",\"Version\":\"1.6.6\",\"Created\":\"2026-08-11T17:31:28.704948144Z\",\"Path\":\"devops-accelerator-platform-tf-state-ajay/global/devops-accelerator/terraform.tfstate\"}"
+        }
+    }
+}
